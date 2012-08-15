@@ -27,3 +27,8 @@ PRODUCT_LOCALES += mdpi
 WITH_WINDOWS_MEDIA := true
 
 -include vendor/cyanogen/products/common_versions.mk
+#
+# Set ro.modversion
+#
+PRODUCT_PROPERTY_OVERRIDES += \
+	ro.modversion=v029
