@@ -13,10 +13,9 @@ $(call inherit-product, vendor/cyanogen/products/gsm.mk)
 PRODUCT_NAME := cyanogen_mimmi
 PRODUCT_BRAND := SEMC
 PRODUCT_DEVICE := mimmi
-PRODUCT_MODEL := X10 Mini Pro
+PRODUCT_MODEL := X10MiniPro
 PRODUCT_MANUFACTURER := Sh!tEricsson
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_DEVICE=X10 Mini Pro PRODUCT_NAME=X10 Mini Pro BUILD_ID=3.0.1.A.0.145 
-BUILD_FINGERPRINT=SEMC/LT15i_1247-1073/LT15i:2.3.3/3.0.1.A.0.145/bn_p:user/release-keys PRIVATE_BUILD_DESC="LT15i-user 2.3.3 3.0.1.A.0.145 bn_P test-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_DEVICE=X10MiniPro PRODUCT_NAME=X10MiniPro BUILD_ID=3.0.1.A.0.145 BUILD_FINGERPRINT=SEMC/LT15i_1247-1073/LT15i:2.3.3/3.0.1.A.0.145/bn_p:user/release-keys PRIVATE_BUILD_DESC="LT15i-user 2.3.3 3.0.1.A.0.145 bn_P test-keys"
 
 # Ti FM radio
 #$(call inherit-product, vendor/cyanogen/products/ti_fm_radio.mk)
