@@ -2,3 +2,4 @@ add_lunch_combo cyanogen_hero-eng
 add_lunch_combo cyanogen_mimmi-eng
 add_lunch_combo cyanogen_robyn-eng
 add_lunch_combo cyanogen_shakira-eng
+add_lunch_combo cyanogen_cooper-eng
