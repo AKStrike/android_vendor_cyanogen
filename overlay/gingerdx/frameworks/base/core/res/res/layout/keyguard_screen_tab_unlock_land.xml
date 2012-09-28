@@ -320,28 +320,7 @@
             android:marqueeRepeatLimit="marquee_forever"
             android:textAppearance="?android:attr/textAppearanceSmall"
             />
-		<!-- dx -->
-		<TextView
-			android:id="@+id/dxLeft"
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_marginLeft="2dip"
-			android:layout_marginBottom="2dip"
-			android:layout_alignParentBottom="true"
-			android:textAppearance="?android:attr/textAppearanceSmall"
-			/>
-
-		<TextView
-			android:id="@+id/dxRight"
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_marginRight="2dip"
-			android:layout_marginBottom="2dip"
-			android:layout_alignParentBottom="true"
-			android:layout_alignParentRight="true"
-			android:textAppearance="?android:attr/textAppearanceSmall"
-			/>
-
+		
     </RelativeLayout>
 
 </android.gesture.GestureOverlayView>

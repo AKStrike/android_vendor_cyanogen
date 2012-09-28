@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Whether or not to display the camera button settings -->
+    <add-resource type="bool" name="has_camera_button">true</add-resource>
+
+    <!-- Notification LED can show any color -->
+    <add-resource type="bool" name="has_rgb_notification_led">true</add-resource>
+
+    <!-- LED Flashlight -->
+    <add-resource type="bool" name="has_led_flash">false</add-resource>
+
+    <!-- Whether or not to display search button settings -->
+    <add-resource type="bool" name="has_search_button">false</add-resource>
+
+    <!-- Undervolting kernel module -->
+    <add-resource type="string" name="undervolting_module">x8uv.ko</add-resource>
+</resources>

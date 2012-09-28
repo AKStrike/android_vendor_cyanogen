@@ -13,6 +13,6 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/cyanogen/overlay/dictionaries
 
 # Default Ringtone
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=Playa.ogg \
-    ro.config.notification_sound=regulus.ogg \
-    ro.config.alarm_alert=Alarm_Beep_03.ogg
+    ro.config.ringtone=CyanTone.ogg \
+    ro.config.notification_sound=CyanMessage.ogg \
+    ro.config.alarm_alert=CyanAlarm.ogg
