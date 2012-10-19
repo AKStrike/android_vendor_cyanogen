@@ -3,3 +3,5 @@ add_lunch_combo cyanogen_mimmi-eng
 add_lunch_combo cyanogen_robyn-eng
 add_lunch_combo cyanogen_shakira-eng
 add_lunch_combo cyanogen_cooper-eng
+add_lunch_combo cyanogen_liberty-eng
+add_lunch_combo cyanogen_sunfire-eng
